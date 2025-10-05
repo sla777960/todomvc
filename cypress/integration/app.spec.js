@@ -22,9 +22,9 @@
 
 describe('TodoMVC', function () {
   // setup these constants to match what TodoMVC does
-  let TODO_ITEM_ONE = 'buy grocieries'
+  let TODO_ITEM_ONE = 'buy some cheese'
   let TODO_ITEM_TWO = 'feed the dog'
-  let TODO_ITEM_THREE = 'make a doctors appointment'
+  let TODO_ITEM_THREE = 'book a doctors appointment'
 
   beforeEach(function () {
     // By default Cypress will automatically
